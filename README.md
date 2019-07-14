@@ -1,2 +1,2 @@
-# wordpress-login-blocklist
- IP's failing multiple attempts at logging into my WordPress Server
+# Wordpress Login Blocklist
+ IP blocklist based on IP's failing multiple attempts and being banned from logging into my WordPress admin login
