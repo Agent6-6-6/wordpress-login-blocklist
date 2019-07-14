@@ -1,0 +1,21 @@
+# exclude excel version
+*.xlsm
+
+# exclude temporary files
+~$*
+~$*.xl*
+*.tmp
+*.bak
+
+# exclude Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# exclude windows folder config file
+Desktop.ini
+
+# exclude Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# exclude Mac file
+.DS_Store
