@@ -19,3 +19,6 @@ $RECYCLE.BIN/
 
 # exclude Mac file
 .DS_Store
+
+# exclude .vscode directory
+**/.vscode
